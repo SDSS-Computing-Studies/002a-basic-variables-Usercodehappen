@@ -2,5 +2,11 @@
 
 # SD Computing Studies Assignment
 
-print("x=10")
-print("y=2.4")
+x = 10
+y = 2.5
+print(x)
+print(y)
+
+
+
+
